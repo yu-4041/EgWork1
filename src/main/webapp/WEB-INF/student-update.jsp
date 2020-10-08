@@ -10,7 +10,10 @@
 </head>
 <body>
 <div class="container-fluid">
-    <form class="form-horizontal" action="http://localhost/api/v1/student/updateUserById" method="post">
+    <form class="form-horizontal" action="http://localhost/api/v1/student/
+
+
+" method="post">
         <div class="control-group">
             <label class="control-label">学号</label>
             <div class="controls">

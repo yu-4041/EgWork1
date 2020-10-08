@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="EgWork1:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c02b6ab-336b-4477-ba33-e4a48019ea58" name="Default Changelist" comment="" />
+    <list default="true" id="2c02b6ab-336b-4477-ba33-e4a48019ea58" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/EgWork1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/student-update.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/student-update.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +54,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -33,11 +67,15 @@
     </option>
   </component>
   <component name="ProjectId" id="1i8MPJsolluHOOhVcprVahYwARg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
@@ -45,6 +83,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
@@ -55,7 +94,8 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -176,12 +216,29 @@
       <workItem from="1602125995621" duration="683000" />
       <workItem from="1602126695588" duration="142000" />
       <workItem from="1602144973567" duration="906000" />
-      <workItem from="1602145900959" duration="1078000" />
+      <workItem from="1602145900959" duration="3640000" />
+      <workItem from="1602154104688" duration="7603000" />
+      <workItem from="1602163336486" duration="893000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1062" y="187" key="#HTTP_Proxy" timestamp="1602126735038">
@@ -208,54 +265,86 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="0" y="0" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1601868402236" />
-    <state x="578" y="198" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1602125833596">
+    <state x="880" y="287" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1602158268664">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="578" y="198" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602125833596" />
+    <state x="880" y="287" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602158268664" />
+    <state x="578" y="198" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1602147034665">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="578" y="198" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602147034665" />
     <state x="771" y="421" key="Github.CreateGistDialog" timestamp="1601382184843">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="771" y="421" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601382184843" />
-    <state width="1877" height="337" key="GridCell.Tab.0.bottom" timestamp="1601896764604">
+    <state x="840" y="460" key="Github.ShareDialog" timestamp="1602147214965">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="337" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601896764604" />
-    <state width="1877" height="337" key="GridCell.Tab.0.center" timestamp="1601896764604">
+    <state x="840" y="460" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602147214965" />
+    <state x="750" y="260" key="Github.UntrackedFilesDialog" timestamp="1602147224942">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="337" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601896764604" />
-    <state width="1877" height="337" key="GridCell.Tab.0.left" timestamp="1601896764604">
+    <state x="750" y="260" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602147224942" />
+    <state width="1877" height="336" key="GridCell.Tab.0.bottom" timestamp="1602164208842">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="337" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601896764604" />
-    <state width="1877" height="337" key="GridCell.Tab.0.right" timestamp="1601896764604">
+    <state width="1877" height="336" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602164208842" />
+    <state width="1877" height="336" key="GridCell.Tab.0.center" timestamp="1602164208842">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="337" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601896764604" />
-    <state width="1877" height="337" key="GridCell.Tab.1.bottom" timestamp="1601896764595">
+    <state width="1877" height="336" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602164208842" />
+    <state width="1877" height="336" key="GridCell.Tab.0.left" timestamp="1602164208842">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="337" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601896764595" />
-    <state width="1877" height="337" key="GridCell.Tab.1.center" timestamp="1601896764595">
+    <state width="1877" height="336" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602164208842" />
+    <state width="1877" height="336" key="GridCell.Tab.0.right" timestamp="1602164208842">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="337" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601896764595" />
-    <state width="1877" height="337" key="GridCell.Tab.1.left" timestamp="1601896764595">
+    <state width="1877" height="336" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602164208842" />
+    <state width="1877" height="336" key="GridCell.Tab.1.bottom" timestamp="1602163554738">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="337" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601896764595" />
-    <state width="1877" height="337" key="GridCell.Tab.1.right" timestamp="1601896764595">
+    <state width="1877" height="336" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602163554738" />
+    <state width="1877" height="336" key="GridCell.Tab.1.center" timestamp="1602163554738">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="337" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601896764595" />
+    <state width="1877" height="336" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602163554738" />
+    <state width="1877" height="336" key="GridCell.Tab.1.left" timestamp="1602163554738">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="336" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602163554738" />
+    <state width="1877" height="336" key="GridCell.Tab.1.right" timestamp="1602163554738">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="336" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602163554738" />
+    <state width="1877" height="347" key="GridCell.Tab.2.bottom" timestamp="1602163497238">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602163497238" />
+    <state width="1877" height="347" key="GridCell.Tab.2.center" timestamp="1602163497238">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602163497238" />
+    <state width="1877" height="347" key="GridCell.Tab.2.left" timestamp="1602163497238">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602163497238" />
+    <state width="1877" height="347" key="GridCell.Tab.2.right" timestamp="1602163497238">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602163497238" />
     <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1601382943185">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601382943185" />
-    <state x="405" y="139" width="998" height="709" key="SettingsEditor" timestamp="1602145885659">
+    <state x="651" y="143" width="998" height="709" key="SettingsEditor" timestamp="1602158419749">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="405" y="139" width="998" height="709" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602145885659" />
+    <state x="651" y="143" width="998" height="709" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602158419749" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602164228524">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602164228524" />
     <state x="731" y="324" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1601871195121">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -276,6 +365,11 @@
           <properties class="java.lang.NullPointerException" package="java.lang" />
           <option name="timeStamp" value="2" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/webapp/WEB-INF/student-update.jsp</url>
+          <line>30</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
